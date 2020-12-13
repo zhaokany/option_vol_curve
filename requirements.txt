@@ -1,0 +1,12 @@
+pre-commit
+black
+flake8
+matplotlib
+plotly
+nbformat
+numpy
+pandas
+dataclasses
+scipy
+csaps
+pytest
